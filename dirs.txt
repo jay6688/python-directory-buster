@@ -1,0 +1,13 @@
+admin
+login
+backup
+backups
+config
+test
+api
+uploads
+dashboard
+secret
+phpmyadmin
+dev
+staging
